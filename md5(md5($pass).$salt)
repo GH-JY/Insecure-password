@@ -8,3 +8,4 @@ db1d0fbd5388718934aeda2d5f695c86:75a2ae	md5(md5($pass).$salt)	8888168
 d8328beca65caa7d94b8f6e5b3429e3c:e40845	md5(md5($pass).$salt)	8888168
 22da0cb0f0ed0ff249581c12a4db2e27:82e226	md5(md5($pass).$salt)	yijian
 f15d3d6592af4fcf2fc171e19cf9adff:870159	md5(md5($pass).$salt)	123456
+315ac9c4c1c58d022a930e9e6cd6019c:ae4bf1	md5(md5($pass).$salt)	123456
