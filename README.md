@@ -9,7 +9,7 @@ md5、md5(md5($pass))、md5(md5(md5($pass)))、MD5(MD5($pass))、MD5(MD5(MD5($pa
 
 Help Support  by Donating Crypto
 Monero
-85TtDBHpuYK9mTDeD7aAnABTpK5a4mNFsZRmbYBqd1KfQDMDACNtWFkDeQD6f1GuiZHDxhQ2AgFt4MvCqNJ6KbbuUpeM7ES
+45jxJmbrNWdSgZ2nL6D8DAfAwjB7jXDtvLjg7ir7P39md6T68hFiL4cfD8cTnL74sWZLxCrfcZYgXU3zRDUX9cJ2EvqW2Fr
 
 Bitcoin
 1CegMWXAGUMnAFDcQ9Hv2KnLWEsHSE3Nrz
@@ -28,3 +28,5 @@ t1UB9DiuLSrgNdtat2QQj4f6vgVPGpWqRHn
 
 USDT(TRC20)
 TG6AFL8LDkDmXu8ZdgXiuJXsdhvqNYbJHL
+
+如果这个仓库对你有帮助，欢迎 star。
