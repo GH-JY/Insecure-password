@@ -20,3 +20,4 @@ b70a6922a1fbbd4008cceec3e2a853af:9554	md5(md5($pass).$salt)	aa123456
 92e7c805ba648be71f29ab453d4a885d:5376	md5(md5($pass).$salt)	198712a
 bab6c6a2e4ec4bba029463fdedd0b98c:ce2a75	md5(md5($pass).$salt)	admin11
 ba05b7be8feba6afd70a8785e7c10757:api	md5(md5($pass).$salt)	123456
+8f3f563b3d5594fc3797bc0ee9e41598:11cb66	md5(md5($pass).$salt)	zdw123
