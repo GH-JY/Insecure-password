@@ -26,3 +26,4 @@ e10adc3949ba59abbe56e057f20f883e:193189	md5(md5($pass).$salt)	123456
 bcef219ec8437275c2e92b7610542718:5cab39	md5(md5($pass).$salt)	5988605
 a23c58620bb90539e56edde7be50fb44:794ce3	md5(md5($pass).$salt)	xiejun
 4e55199edd49916c53b3219d5dd4e682:434de4	md5(md5($pass).$salt)	3354389
+fd410a04cac1d011e4d6feef0106735f:468663	md5(md5($pass).$salt)	qazwsx
